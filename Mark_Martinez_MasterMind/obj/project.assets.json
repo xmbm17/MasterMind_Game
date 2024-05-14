@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mark\\OneDrive\\Documents\\.Net_Projects\\Mark_Martinez_MasterMind\\Mark_Martinez_MasterMind\\Mark_Martinez_MasterMind.csproj",
+      "projectUniqueName": "C:\\Users\\Mark\\OneDrive\\Documents\\Final-Resume\\MasterMind_Game\\Mark_Martinez_MasterMind\\Mark_Martinez_MasterMind.csproj",
       "projectName": "Mark_Martinez_MasterMind",
-      "projectPath": "C:\\Users\\Mark\\OneDrive\\Documents\\.Net_Projects\\Mark_Martinez_MasterMind\\Mark_Martinez_MasterMind\\Mark_Martinez_MasterMind.csproj",
+      "projectPath": "C:\\Users\\Mark\\OneDrive\\Documents\\Final-Resume\\MasterMind_Game\\Mark_Martinez_MasterMind\\Mark_Martinez_MasterMind.csproj",
       "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mark\\OneDrive\\Documents\\.Net_Projects\\Mark_Martinez_MasterMind\\Mark_Martinez_MasterMind\\obj\\",
+      "outputPath": "C:\\Users\\Mark\\OneDrive\\Documents\\Final-Resume\\MasterMind_Game\\Mark_Martinez_MasterMind\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
