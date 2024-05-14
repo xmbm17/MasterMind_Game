@@ -25,13 +25,13 @@ namespace Mark_Martinez_MasterMind
             {
 
                 Console.WriteLine("Welcome to Mastermind!\n");
-                Console.WriteLine("Press 4 for easy, 5 for meduim, and 6 for hard.");
+                Console.WriteLine("Press 4 for easy, 5 for medium, and 6 for hard.");
 
                 _level = Console.ReadLine();
 
                 if (_level != "4" && _level != "5" && _level != "6")
                 {
-                    Console.WriteLine("Please enter 4 for easy, 5 for meduim, and 6 for hard.");
+                    Console.WriteLine("Please enter 4 for easy, 5 for medium, and 6 for hard.");
                 }
                 else
                 {
