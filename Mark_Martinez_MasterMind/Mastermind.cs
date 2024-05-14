@@ -27,7 +27,6 @@ namespace Mark_Martinez_MasterMind
                 Console.WriteLine("Welcome to Mastermind!\n");
                 Console.WriteLine("Press 4 for easy, 5 for meduim, and 6 for hard.");
 
-
                 _level = Console.ReadLine();
 
                 if (_level != "4" && _level != "5" && _level != "6")
@@ -39,7 +38,7 @@ namespace Mark_Martinez_MasterMind
 
                     _winningCombo = getWinningComboAsync(_level).Result.ToString();
                     _chances = 10;
-                    Console.WriteLine(_winningCombo + " combo");
+
                     while (_chances > 0)
                     {
                         Console.WriteLine($"\nEnter your {_level} digit guess, you have {_chances} chances left.");

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mark_Martinez_MasterMind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeaba101ded8d3d4ce4b66a53850752dc86c07f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+066d6f59c3b8eb3528fd3fe474e03a1c57aa990a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mark_Martinez_MasterMind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mark_Martinez_MasterMind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
